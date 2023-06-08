@@ -1,0 +1,1 @@
+'I have no money'.gsub(/no/, 'a heap of')

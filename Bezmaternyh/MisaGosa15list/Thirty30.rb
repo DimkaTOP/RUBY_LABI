@@ -1,0 +1,1 @@
+'I have a new car'.gsub(/a/, '1')

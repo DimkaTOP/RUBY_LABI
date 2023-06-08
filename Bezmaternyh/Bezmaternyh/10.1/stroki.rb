@@ -1,0 +1,1 @@
+ruby stroki.rb data/quotes.txt
